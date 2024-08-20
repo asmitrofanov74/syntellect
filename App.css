@@ -1,0 +1,22 @@
+.buttonGroup {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+ul {
+  border: 1px solid #ccc;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+ul {
+  cursor: pointer;
+  padding: 5px;
+}
+
+input {
+  margin: 0 10px;
+}
+button {
+  margin: 5px;
+}
